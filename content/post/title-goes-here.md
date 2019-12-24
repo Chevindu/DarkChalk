@@ -1,5 +1,5 @@
 +++
-authors = ["authors/thiago-costa/_index.md", "authors/chevindu.md"]
+authors = ["Chevindu Wickramathilaka"]
 date = 2019-12-24T04:30:00Z
 excerpt = "Excerpt goes here"
 hero = "/uploads/hugo-hero.jpg"
