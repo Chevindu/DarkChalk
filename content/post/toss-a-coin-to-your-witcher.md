@@ -1,5 +1,5 @@
 +++
-authors = ["authors/chevindu.md"]
+authors = ["Chevindu Wickramathilaka"]
 date = 2019-12-24T06:30:00Z
 excerpt = "A friend of humanity."
 hero = "/uploads/wallpapersden.com_the-witcher-3-wild-hunt-minimalism-logo_1920x1080.jpg"
