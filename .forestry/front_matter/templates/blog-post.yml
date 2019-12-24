@@ -24,3 +24,5 @@ fields:
   label: authors
   config:
     use_select: false
+pages:
+- content/post/title-goes-here.md
