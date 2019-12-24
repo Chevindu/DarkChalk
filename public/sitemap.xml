@@ -3,15 +3,133 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2019-04-31-understanding-the-gatsby-lifecycle/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2019-04-30-why-we-built-a-company-before-a-product/</loc>
+    <lastmod>2019-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2019-04-29-building-the-new-hopper-com/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2019-04-28-how-figma-changed-how-we-design/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2019-04-27-how-figma-changed-how-we-design/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2019-04-26-building-hoppers-media-centre/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2018-04-30-why-we-built-a-company-before-a-product/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2018-04-29-understanding-the-gatsby-lifecycle/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2018-04-28-building-hoppers-media-centre/</loc>
+    <lastmod>2018-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2018-04-27-how-figma-changed-how-we-design/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2018-04-26-how-figma-changed-how-we-design/</loc>
+    <lastmod>2018-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2017-04-30-how-figma-changed-how-we-design/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2017-04-30-why-we-built-a-company-before-a-product/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2017-04-28-understanding-the-gatsby-lifecycle/</loc>
+    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2017-04-27-building-hoppers-media-centre/</loc>
+    <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2018-04-27-building-hoppers-media-centre-secret/</loc>
+    <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/authors/brad-tiller/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2018-04-31-building-the-new-hopper-com/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://example.org/authors/dennis-brotzky/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/authors/mack-mansouri/</loc>
   </url>
   
   <url>
     <loc>http://example.org/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/authors/thiago-costa/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2017-04-31-how-figma-changed-how-we-design/</loc>
   </url>
   
 </urlset>
