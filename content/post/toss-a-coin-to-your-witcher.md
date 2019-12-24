@@ -1,7 +1,6 @@
 +++
 authors = ["authors/chevindu.md"]
 date = 2019-12-24T06:30:00Z
-draft = true
 excerpt = "A friend of humanity."
 hero = "/uploads/witcher-hero.jpg"
 timeToRead = 3
