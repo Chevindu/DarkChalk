@@ -11,6 +11,8 @@ fields:
 - type: file
   name: hero
   label: hero
+  default: "/uploads/hugo-hero.jpg"
+  description: The featured hero image for the post
 - type: textarea
   name: excerpt
   label: excerpt
@@ -20,3 +22,5 @@ fields:
 - type: list
   name: authors
   label: authors
+  config:
+    use_select: false
