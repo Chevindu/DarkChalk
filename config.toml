@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://chevindu.netlify.com/"
 languageCode = "en-us"
-title = "My New Hacks Site"
+title = "Dark Chalk"
 theme = "novela"

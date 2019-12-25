@@ -2,11 +2,17 @@
     .change-fill{
         fill: var(--primary);
     }
+    .change-stroke{
+        stroke: var(--primary);
+    }
 }
 
 #logo-mobile{
-    path{
+    .change-fill{
         fill: var(--primary);
+    }
+    .change-stroke{
+        stroke: var(--primary);
     }
 }
 
