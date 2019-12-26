@@ -5,6 +5,12 @@ fields:
 - type: text
   name: title
   label: title
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Slug
+  description: Path that appears in your permalink
 - type: datetime
   name: date
   label: date
