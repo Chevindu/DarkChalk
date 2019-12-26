@@ -9,7 +9,7 @@ title = "The Youth That Dawned - උදා වූ යෞවනය"
 +++
 This post settles during the uproar due to Ven Medagoda Abayathissa Thero's unsolicited advice to stop distributing a sex-ed book among students.
 
-{{ youtube Y2m3K_mzdp4 }}
+{{<youtube Y2m3K_mzdp4>}}
 
 The book he refers to, Hathē Apē Potha (හතේ අපේ පොත), is a reference school book compiled under the purview of Yahapalana govt. Thero argues that the book unnecessarily introduces sexual connotations to a child's environment at a very young age. You can [read the book and decide for yourself](https://drive.google.com/file/d/1stP-ocC-6RVWmthIs41oxwgywb4sW0jN/view?usp=drivesdk "Hathe Ape Potha").
 
