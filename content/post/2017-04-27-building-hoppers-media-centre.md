@@ -4,7 +4,7 @@ date: 2017-04-27
 hero: "/images/hero-3.jpg"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
   apps in the U.S, along with Uber, Lyft.
-timeToRead: 8
+timeToRead: "8"
 authors:
 - Dennis Brotzky
 
