@@ -1,10 +1,10 @@
 +++
 authors = ["Chevindu Wickramathilaka"]
 date = 2019-12-24T06:30:00Z
-excerpt = "A friend of humanity."
+excerpt = "O’ Valley of Plenty, O’ Valley of Plenty, O’!"
 hero = "/uploads/wallpapersden.com_the-witcher-3-wild-hunt-minimalism-logo_1920x1080.jpg"
 timeToRead = 5
-title = "Toss a coin to your Witcher"
+title = "Toss a coin to your Witcher 🐺"
 
 +++
 Lyrics:
