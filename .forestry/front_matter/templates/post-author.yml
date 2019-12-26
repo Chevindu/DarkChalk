@@ -22,5 +22,3 @@ fields:
   - type: text
     name: url
     label: url
-pages:
-- content/authors/chevindu.md
