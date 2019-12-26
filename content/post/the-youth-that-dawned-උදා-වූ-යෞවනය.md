@@ -4,7 +4,7 @@ date = 2019-12-26T13:30:00Z
 excerpt = "Only thieves are worried about security cameras."
 hero = "/uploads/Sex-Education.jpg"
 timeToRead = 3
-title = "The Youth That Dawned - උදා වූ යෞවනය"
+title = "The Youth That Dawned"
 
 +++
 This post settles during the uproar due to Ven Medagoda Abayathissa Thero's unsolicited advice to stop distributing a sex-ed book among students.
