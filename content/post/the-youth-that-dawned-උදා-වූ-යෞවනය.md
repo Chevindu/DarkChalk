@@ -3,6 +3,7 @@ authors = ["Chevindu Wickramathilaka"]
 date = 2019-12-26T13:30:00Z
 excerpt = "Only thieves are worried about security cameras."
 hero = "/uploads/Sex-Education.jpg"
+slug = "the-youth-that-dawned"
 timeToRead = 3
 title = "The Youth That Dawned"
 
