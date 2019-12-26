@@ -4,7 +4,7 @@ date = 2019-12-24T04:30:00Z
 excerpt = "Excerpt goes here"
 hero = "/uploads/hugo-hero.jpg"
 timeToRead = 5
-title = "Title goes here"
+title = "Genesis"
 
 +++
 So.
@@ -17,4 +17,4 @@ A static CMS that directly pulls from and pushes to any git-based source without
 
 I'm still trying to figure out a few things like applying custom styles and linking authors, but it feels doable.
 
-The internet is going back to basics, and it feels good to be back home. 🤞
+Websites are going back to basics, and it feels good to be back home. 🤞
