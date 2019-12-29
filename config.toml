@@ -7,12 +7,12 @@ copyright = "Ideas are bulletproof"
 
 [languages]
   [languages.en]
-    contentDir = "content/english"
+    contentDir = "post/english"
     title = "Dark Chalk"
     weight = 1
     languageName = "English"
   [languages.si]
-    contentDir = "content/sinhala"
+    contentDir = "post/sinhala"
     title = "කළු හුණු"
     weight = 2
     languageName = "සිංහල"
