@@ -1,4 +1,16 @@
 baseURL = "https://chevindu.netlify.com/"
-languageCode = "en-us"
 title = "Dark Chalk"
 theme = "novela"
+
+DefaultContentLanguage = "en"
+copyright = "Ideas are bulletproof"
+
+[languages]
+  [languages.en]
+    title = "Dark Chalk"
+    weight = 1
+    languageName = "🇺🇸"
+  [languages.si]
+    title = "කළු හුණු"
+    weight = 2
+    languageName = "🇱🇰"

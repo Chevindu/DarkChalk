@@ -18,6 +18,12 @@
         <div id="moonOrSun" class="moon-or-sun"></div>
         <div id="moonMask" class="moon-mask"></div>
       </button>
+
+      <nav class="icon-wrapper">
+        {{ range .Translations }}
+          <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+        {{ end}}
+        </nav>
     </div>
 </div>
 </Section>
