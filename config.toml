@@ -10,9 +10,9 @@ copyright = "Ideas are bulletproof"
     title = "Dark Chalk"
     weight = 1
     languageName = "🇺🇸"
-    contentDir = "content/english"
+    contentDir = "content/post/english"
   [languages.si]
     title = "කළු හුණු"
     weight = 2
     languageName = "🇱🇰"
-    contentDir = "content/sinhala"
+    contentDir = "content/post/sinhala"
