@@ -33,3 +33,5 @@ fields:
     source:
       type: pages
       section: authors
+pages:
+- content/post/english/from-forestry.md
