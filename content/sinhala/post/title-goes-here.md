@@ -3,6 +3,7 @@ authors = ["Chevindu Wickramathilaka"]
 date = 2019-12-24T04:30:00Z
 excerpt = "I have so 99 things to do right now, but blogging ain't one."
 hero = "/uploads/hugo-hero.jpg"
+slug = "ayubowan"
 timeToRead = 5
 title = "ප්‍රාරම්භය"
 
