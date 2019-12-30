@@ -5,13 +5,28 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/english/post
+  label: Posts - English
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sinhala/post
+  label: Posts - Sinhala
+  create: all
+  match: "**/*"
+- type: directory
   path: content
   label: Pages
   create: all
   match: "*"
 - type: directory
-  path: content/post
-  label: Posts
+  path: content/english/authors
+  label: Authors - English
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sinhala/authors
+  label: Authors - Sinhala
   create: all
   match: "**/*"
 - type: directory

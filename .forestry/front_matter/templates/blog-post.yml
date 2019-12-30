@@ -33,6 +33,3 @@ fields:
     source:
       type: pages
       section: authors
-pages:
-- content/post/english/from-forestry.md
-- content/post/sinhala/ෆොරෙස්ට්‍රි.md
