@@ -18,8 +18,6 @@ Hugo is a static site generator that builds in a blink of an eye. Forestry is a 
 
 I'm still trying to figure out a few things like applying custom styles and including custom fields, but it feels doable.
 
-![chevindu](/uploads/11093698.jpeg "Chevindu Avatar")
-
 Websites are going back to basics, and it feels good to be back home.
 
 🤞
